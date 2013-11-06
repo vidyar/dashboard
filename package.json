@@ -1,0 +1,12 @@
+{
+   "name": "shippable_dashboard",
+   "description": "Dashboard App",
+   "version": "0.0.1",
+   "private":true,
+   "dependencies": {
+      "express": "latest",
+      "mocha": "latest",
+      "expect.js":"latest",
+      "supertest":"0.8.1"
+   }
+}
