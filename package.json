@@ -8,6 +8,7 @@
       "mocha": "latest",
       "expect.js":"latest",
       "supertest":"latest",
-      "winston":"latest"
+      "winston":"latest",
+	  "istanbul": "0.1.x" 
    }
 }
